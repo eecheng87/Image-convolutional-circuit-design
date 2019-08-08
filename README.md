@@ -1,1 +1,0 @@
-# Image-convolutional-circuit-design
