@@ -9,7 +9,7 @@ Using `verilog` to implement convolutional circuit
 
 another file is data file
 
-The convolution including **zero padding**, **convolutional operation**, **ReLU**, *max-pooling* and **flatten**
+The convolution including **zero padding**, **convolutional operation**, **ReLU**, **max-pooling** and **flatten**
 
 Those operation is seperated into 3 layer ( layer0, layer1 and layer2 )
 
